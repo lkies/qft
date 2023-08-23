@@ -48,3 +48,4 @@ bqplot
 # other
 numpy
 matplotlib
+ipywidgets
